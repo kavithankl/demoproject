@@ -1,0 +1,18 @@
+User Stories:
+
+User Type     Epic                      User Story
+              Registration:             As a user , i can register the application by entering username
+                                        password,firstname,lastname
+                                        once am done the registration the data stored in database  
+Web User			    
+
+              Login      :              As a user, i can login the application the username and password 
+                                        from the registration page. the login page is success go to the 
+                                        product page
+         
+
+
+
+
+
+
